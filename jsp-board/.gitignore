@@ -224,4 +224,12 @@ gradle-app.setting
 # Java heap dump
 *.hprof
 
+### log ###
+logs
+*.log
+
+### tomcat ###
+conf
+.smarttomcat
+
 # End of https://www.toptal.com/developers/gitignore/api/gradle,windows,maven,intellij
